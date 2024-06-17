@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abhinav Gautam</h1>
 <h3 align="center">A passionate Software Engineer from Nepal, currently residing in Finland.</h3>
-<a href="https://instagram.com/avveenav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avveenav" height="30" width="40" /></a>
 
 - 📫 How to reach me **abhinavgautam3166@gmail.com**
 
